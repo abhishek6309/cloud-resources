@@ -1,2 +1,2 @@
 # cloud-resources
-List of resources to learn cloud computing
+List of free resources to learn cloud computing
